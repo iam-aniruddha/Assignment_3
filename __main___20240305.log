@@ -1,0 +1,5 @@
+__main__ add 05-03-24 23:15:17          Execution Time: 2.0008 seconds
+__main__ add 05-03-24 23:16:25          Execution Time: 2.0007 seconds
+__main__ add 05-03-24 23:53:13 {'args': (4, 2)}
+__main__ add 05-03-24 23:53:46 {'args': (5, 3)}
+__main__ add 05-03-24 23:53:52          Execution Time: 2.0016 seconds

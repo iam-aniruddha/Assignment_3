@@ -1,0 +1,35 @@
+************* Module ques_1
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.09/10, +0.91)
+
+
+
+************* Module ques_2
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 9.55/10, +0.45)
+
+
+
+************* Module ques_3
+Ques_3.py:20:0: C0301: Line too long (102/100) (line-too-long)
+Ques_3.py:24:0: C0301: Line too long (104/100) (line-too-long)
+
+------------------------------------------------------------------
+Your code has been rated at 9.00/10 (previous run: 7.00/10, +2.00)
+
+
+
+************* Module ques_4
+Ques_4.py:46:0: C0301: Line too long (123/100) (line-too-long)
+
+------------------------------------------------------------------
+Your code has been rated at 9.63/10 (previous run: 6.49/10, +3.14)
+
+
+
+************* Module ques_5
+------------------------------------
+Your code has been rated at 10.00/10
+
+
+

@@ -1,0 +1,7 @@
+Required Dependencies - 
+
+"pip install pylint"
+
+Faker library: Used to generate fake data. we can install it using pip by running the following command in our terminal or command prompt:
+
+"pip install Faker"
