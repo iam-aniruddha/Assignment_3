@@ -17,11 +17,11 @@ def validate_range(min_val, max_val):
             """
             for arg in args:
                 if arg < min_val or arg > max_val:
-                    raise ValueError(f"Argument {arg} is not within the range [{min_val}, {max_val}]")
+                    raise ValueError(f"Argument {arg} is not within the range [{min_val}, {max_val}]") # pylint: disable= line-too-long
 
             for kwarg in kwargs.values():
                 if kwarg < min_val or kwarg > max_val:
-                    raise ValueError(f"Argument {kwarg} is not within the range [{min_val}, {max_val}]")
+                    raise ValueError(f"Argument {kwarg} is not within the range [{min_val}, {max_val}]") # pylint: disable= line-too-long
 
             # Call the original function
             return func(*args, **kwargs)

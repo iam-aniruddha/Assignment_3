@@ -43,7 +43,7 @@ class EmployeeData:
             emp_id = self.fake.unique.random_number(digits=6)
             emp_name = self.fake.name()
             emp_email = self.fake.email()
-            business_unit = self.fake.random_element(elements=('HR', 'Finance', 'Engineering', 'IT', 'Sales', 'Marketing'))
+            business_unit = self.fake.random_element(elements=('HR', 'Finance', 'Engineering', 'IT', 'Sales', 'Marketing')) # pylint: disable= line-too-long
             salary = self.fake.random_int(min=40000, max=120000)
             employee_record = {
                 "EMP ID": emp_id,
